@@ -1,0 +1,13 @@
+h1{
+    background: burlywood;
+}
+
+body{
+    margin: 0;
+}
+
+body,
+html{
+    min-height: 100%;
+}
+
